@@ -1,3 +1,6 @@
+# mens-clothing
+This is a demo e-commers project that has created for practice purpose. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
